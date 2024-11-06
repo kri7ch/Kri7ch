@@ -27,7 +27,15 @@
 
 ## 📱 Социальные сети
 
-<p align="left"> <a href="https://www.github.com/kri7ch" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<div align="left">
+  <a href="https://t.me/kri7ch" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Telegram_logo.svg" width="36" height="36" alt="Telegram" />
+  </a>
+  <a href="mailto:rakhmaevdanil@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Email_icon.svg" width="36" height="36" alt="Email" />
+  </a>
+</div>
+
 
 ## 🔥Моя статистика
 
