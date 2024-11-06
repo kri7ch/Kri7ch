@@ -29,10 +29,10 @@
 
 <div align="left">
   <a href="https://t.me/kri7ch" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Telegram_logo.svg" width="36" height="36" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="mailto:rakhmaevdanil@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Email_icon.svg" width="36" height="36" alt="Email" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </div>
 
