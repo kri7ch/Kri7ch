@@ -24,11 +24,11 @@
 </p>
 
 
-### Socials
+## 📱 Социальные сети
 
 <p align="left"> <a href="https://www.github.com/kri7ch" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### 🔥Моя статистика
+## 🔥Моя статистика
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kri7ch&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
