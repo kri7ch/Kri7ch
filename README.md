@@ -31,8 +31,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36"/></a>
   <img width="6"/>
-  <a href="https://obsidian.md/" target="_blank" rel="noreferrer">
-      <img src="./icons/Obsidian-Dark.svg" width="36" height="36"/></a>
+[![Tools](https://skillicons.dev/icons?i=obsidian)](https://skillicons.dev)
 </p>
 
 ## 📱 Связь со мной
