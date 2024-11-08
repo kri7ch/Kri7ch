@@ -31,6 +31,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36"/></a>
   <img width="6"/>
+  <img src="./icons/Obsidian-Dark.svg" width="48">
 </p>
 
 ## 📱 Связь со мной
