@@ -32,7 +32,7 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36"/></a>
   <img width="6"/>
   <a href="https://obsidian.md/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=obsidian" width="42" height="42"/></a>
+    <img src="https://skillicons.dev/icons?i=obsidian" width="48" height="48"/></a>
 </p>
 
 ## 📱 Связь со мной
