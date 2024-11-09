@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin"/></a>
   <img width="6"/>
   <a href="https://www.java.com/ru/" target="_blank" rel="noreferrer">
-     <img src="https://skillicons.dev/icons?i=java" width="44" height="40"/></a>
+     <img src="https://skillicons.dev/icons?i=java" width="46" height="40"/></a>
 </p>
 
 ## 🛠 Владею навыками
