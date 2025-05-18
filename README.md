@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="600" src="https://tenor.com/ru/view/lonely-windy-stare-girl-sad-gif-17841739"  />
+  <div class="tenor-gif-embed" data-postid="17841739" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/lonely-windy-stare-girl-sad-gif-17841739">Lonely Windy GIF</a>from <a href="https://tenor.com/search/lonely-gifs">Lonely GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) меня зовут Данил
