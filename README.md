@@ -24,6 +24,9 @@ I have been in the field of programming for about 3 years. I like to do web desi
   <img width="6"/>
   <a href="https://www.java.com/ru/" target="_blank" rel="noreferrer">
      <img src="https://skillicons.dev/icons?i=java" width="52" height="40"/></a>
+  <img width="6"/>
+    <a href="https://www.php.com/ru/" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="52" height="40"/></a>
 </p>
 
 ## 🛠 I have the skills
