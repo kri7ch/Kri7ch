@@ -12,21 +12,22 @@ I have been in the field of programming for about 3 years. I like to do web desi
 
 ## 📕 Programming languages
 
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#"/></a>
+<div align="left" style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+  <p align="left">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#"/></a>
+      <img width="6"/>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/></a>
     <img width="6"/>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/></a>
-  <img width="6"/>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin"/></a>
-  <img width="6"/>
-  <a href="https://www.java.com/ru/" target="_blank" rel="noreferrer">
-     <img src="https://skillicons.dev/icons?i=java" width="52" height="40"/></a>
-    <a href="https://www.php.com/ru/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="62" height="50" margin-top="20"/></a>
-</p>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin"/></a>
+    <img width="6"/>
+    <a href="https://www.java.com/ru/" target="_blank" rel="noreferrer">
+       <img src="https://skillicons.dev/icons?i=java" width="52" height="40"/></a>
+      <a href="https://www.php.com/ru/" target="_blank" rel="noreferrer">
+       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="62" height="50" margin-top="20"/></a>
+  </p>
+</div>
 
 ## 🛠 I have the skills
 <p align="left">
