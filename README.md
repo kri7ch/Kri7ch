@@ -2,15 +2,15 @@
   <img height="300" width="600" src="./assets/tenor.gif"/>
 </div>
 
-Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) меня зовут Данил
+Hi, my name is Danil
 =============================================================================================================================
 
-## 👩‍💻Обо мне:
+## About me:
 
-Я начинающий backend разработчик. Учусь в колледже по специальности **"информационные системы и программирование"**. 
-В сфере программирования нахожусь порядка 3х лет. В свободное время люблю заниматься веб дизайном
+I am a novice backend developer. I am studying at a college with a degree in Information systems and Programming. 
+I have been in the field of programming for about 3 years. I like to do web design in my free time.
 
-## 📕 Языки программирования
+## 📕 Programming languages
 
 
 <p align="left">
@@ -26,7 +26,7 @@
      <img src="https://skillicons.dev/icons?i=java" width="52" height="40"/></a>
 </p>
 
-## 🛠 Владею навыками
+## 🛠 I have the skills
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36"/></a>
@@ -38,7 +38,7 @@
     <img src="https://skillicons.dev/icons?i=obsidian" width="48" height="48"/></a>
 </p>
 
-## 📱 Связь со мной
+## 📱 Contact with me
 
 <div align="left">
   <a href="https://t.me/kri7ch">
@@ -50,7 +50,7 @@
 </div>
 
 
-## 🔥Моя статистика
+## 🔥 My stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kri7ch&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
