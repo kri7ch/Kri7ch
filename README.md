@@ -1,69 +1,57 @@
 <div align="center">
-  <img height="300" width="600" src="./assets/tenor.gif"/>
+  <img height="250" src="./assets/tenor.gif"/>
 </div>
 
-Hi, my name is Danil
-=============================================================================================================================
+# Hi, my name is Danil
+
+---
 
 ## About me:
 
-I am a novice backend developer. I am studying at a college with a degree in Information systems and Programming. 
-I have been in the field of programming for about 3 years. I like to do web design in my free time.
+I am a novice backend developer.
+I am studying Information Systems and Programming.
+
+I have been in programming for about 3 years.
+In my free time I enjoy web design.
+
+---
 
 ## 📕 Programming languages
 
-<div align="left" style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-  <p align="left">
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#"/></a>
-      <img width="6"/>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/></a>
-    <img width="6"/>
-    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin"/></a>
-    <img width="6"/>
-    <a href="https://www.java.com/ru/" target="_blank" rel="noreferrer">
-       <img src="https://skillicons.dev/icons?i=java" width="52" height="40"/></a>
-      <a href="https://www.php.com/ru/" target="_blank" rel="noreferrer">
-       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="62" height="50" margin-top="20"/></a>
-  </p>
-</div>
-
-## 🛠 I have the skills
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36"/></a>
-  <img width="6"/>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36"/></a>
-  <img width="6"/>
-  <a href="https://obsidian.md/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=obsidian" width="48" height="48"/></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,python,kotlin,java,php" />
 </p>
+
+---
+
+## 🛠 Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,figma,obsidian" />
+</p>
+
+---
 
 ## 📱 Contact with me
 
-<div align="left">
+<p align="center">
   <a href="https://t.me/kri7ch">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  &nbsp;
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
   <a href="mailto:rakhmaevdanil@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</div>
+</p>
 
+---
 
 ## 🔥 My stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kri7ch&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kri7ch&theme=dark&hide_border=true" />
+</p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kri7ch&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kri7ch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=4" height="150" alt="languages graph"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kri7ch&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kri7ch&layout=compact&theme=dark&hide_border=true" />
+</p>
