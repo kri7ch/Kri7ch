@@ -2,9 +2,9 @@
 
 # Danil Rakhmaev
 
-### Backend Developer
+### Fullstack Developer (Frontend + Backend)
 
-<img src="https://readme-typing-svg.herokuapp.com?color=7aa2f7&center=true&vCenter=true&width=500&lines=Backend+Developer;Building+scalable+systems;3%2B+years+coding+experience" />
+<img src="https://readme-typing-svg.herokuapp.com?color=7aa2f7&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Frontend+%2B+Backend;Building+real-time+web+applications" />
 
 </div>
 
@@ -12,8 +12,8 @@
 
 ## 👨‍💻 About Me
 
-Backend developer with 3+ years of experience.
-Focused on building scalable, maintainable systems and real-time applications.
+Fullstack developer with 3+ years of experience.
+Focused on building modern web applications, real-time systems and clean architecture.
 
 Currently studying **Information Systems & Programming**.
 
@@ -22,7 +22,7 @@ Currently studying **Information Systems & Programming**.
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,kotlin,java,php,vue,mysql,docker,git" />
+  <img src="https://skillicons.dev/icons?i=vue,ts,js,cs,python,php,mysql,docker,git" />
 </p>
 
 ---
@@ -34,11 +34,7 @@ Currently studying **Information Systems & Programming**.
 Web platform for совместного просмотра, общения и AI-подбора фильмов
 **Stack:** Vue 3, TypeScript, FastAPI, WebSockets, Supabase, OpenRouter
 
-<p>
-  <a href="https://github.com/kri7ch/CueUp-Web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kri7ch&repo=CueUp-Web&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
+👉 https://github.com/kri7ch/CueUp-Web
 
 ---
 
@@ -47,11 +43,7 @@ Web platform for совместного просмотра, общения и AI
 Online shoe store with product catalog and UI
 **Stack:** Vue, C#, JavaScript, HTML, CSS
 
-<p>
-  <a href="https://github.com/kri7ch/xwear_shop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kri7ch&repo=xwear_shop&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
+👉 https://github.com/kri7ch/xwear_shop
 
 ---
 
@@ -60,11 +52,7 @@ Online shoe store with product catalog and UI
 Full system for Apple tech store with client app and admin panel
 **Stack:** C#, Docker
 
-<p>
-  <a href="https://github.com/kri7ch/AppleShop_WPF-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kri7ch&repo=AppleShop_WPF-API&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
+👉 https://github.com/kri7ch/AppleShop_WPF-API
 
 ---
 
@@ -73,11 +61,7 @@ Full system for Apple tech store with client app and admin panel
 Platform for buying, selling and trading in-game skins
 **Stack:** PHP, MySQL, JavaScript, Bootstrap
 
-<p>
-  <a href="https://github.com/kri7ch/CourseProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kri7ch&repo=CourseProject&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
+👉 https://github.com/kri7ch/CourseProject
 
 ---
 
@@ -86,23 +70,19 @@ Platform for buying, selling and trading in-game skins
 Restaurant web system with ordering and admin panel
 **Stack:** PHP, CSS
 
-<p>
-  <a href="https://github.com/kri7ch/FoodDash">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kri7ch&repo=FoodDash&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
+👉 https://github.com/kri7ch/FoodDash
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kri7ch&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kri7ch&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kri7ch&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kri7ch&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kri7ch&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kri7ch&theme=tokyonight"/>
 </p>
 
 ---
